@@ -23,14 +23,17 @@ I also develop Web-based applications and explore secure, scalable, and modern s
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-111?style=flat-square&logo=coffeescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-111?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-111?style=flat-square&logo=csharp&logoColor=white" />
   <img src="https://img.shields.io/badge/C%2B%2B-111?style=flat-square&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-111?style=flat-square&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/.NET-111?style=flat-square&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/Web_Technologies-111?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-111?style=flat-square&logo=coffeescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-111?style=flat-square&logo=csharp&logoColor=white" />
   <img src="https://img.shields.io/badge/Computer_Graphics-111?style=flat-square&logo=opengl&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-111?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML-111?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS-111?style=flat-square&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-111?style=flat-square&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-111?style=flat-square&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Web_Technology-111?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/.NET-111?style=flat-square&logo=dotnet&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-111?style=flat-square&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-111?style=flat-square&logo=linux&logoColor=white" />
   <img src="https://img.shields.io/badge/Networking-111?style=flat-square&logo=cisco&logoColor=white" />
