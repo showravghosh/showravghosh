@@ -16,15 +16,38 @@ I also develop Web-based applications and explore secure, scalable, and modern s
   </a>
   <img alt="Public Repositories" src="https://img.shields.io/badge/Public%20Repos-8-blue?style=flat&logo=github">
   <img alt="Profile Type" src="https://img.shields.io/badge/Profile-Developer%20Portfolio-orange?style=flat">
+  
+  <a href="https://www.linkedin.com/in/showrav-ghosh-607145315/">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Showrav%20Ghosh-0A66C2?style=flat&logo=linkedin&logoColor=white">
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=showravghosh&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-111?style=flat-square&logo=coffeescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-111?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-111?style=flat-square&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-111?style=flat-square&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-111?style=flat-square&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/.NET-111?style=flat-square&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Web_Technologies-111?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/Computer_Graphics-111?style=flat-square&logo=opengl&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-111?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-111?style=flat-square&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Networking-111?style=flat-square&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cyber_Security-111?style=flat-square&logo=hackaday&logoColor=white" />
+  <img src="https://img.shields.io/badge/Machine_Learning-111?style=flat-square&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Computer_Vision-111?style=flat-square&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matlab-111?style=flat-square&logo=mathworks&logoColor=white" />
+  <img src="https://img.shields.io/badge/LaTeX-111?style=flat-square&logo=latex&logoColor=white" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=showravghosh&show_icons=true&theme=tokyonight" height="160"/>
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=showravghosh&layout=compact&theme=tokyonight" height="160"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=showravghosh&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
 ---
