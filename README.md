@@ -1,6 +1,10 @@
 <h1 align="center">Showrav Ghosh</h1>
 
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=showravghosh&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
+
+<p align="center">
   <b>• Cybersecurity • Ethical Hacking • Web Development • Computer Vision Learner • Backend & Desktop App Builder</b><br/>
 I am a Computer Science student with growing expertise in Networking, Cybersecurity, and Ethical Hacking.  
 I work with Machine Learning and Computer Vision to build intelligent and real-world problem-solving systems.  
