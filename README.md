@@ -54,10 +54,15 @@ I also develop Web-based applications and explore secure, scalable, and modern s
 
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=showravghosh&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=showravghosh&layout=compact&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=showravghosh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=showravghosh&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
+
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=showravghosh&theme=tokyonight&no-frame=true&row=1&column=7" />
+</p>
 ---
 
 ## Start here
