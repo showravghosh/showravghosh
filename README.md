@@ -57,6 +57,15 @@ I also develop Web-based applications and explore secure, scalable, and modern s
   <img src="https://github-stats-extended.vercel.app/api?username=showravghosh&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=showravghosh&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 </p>
+
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/showravghosh/showravghosh/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/showravghosh/showravghosh/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/showravghosh/showravghosh/output/github-contribution-grid-snake-dark.svg" />
+  </picture>
+</p>
 ---
 
 ## Start here
