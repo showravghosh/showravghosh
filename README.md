@@ -8,10 +8,6 @@
 </p>
 
 <p align="center">
-  <img width="700" src="https://raw.githubusercontent.com/showravghosh/showravghosh/main/assets/divider.svg" />
-</p>
-
-<p align="center">
 🎓 Computer Science student specializing in <b>Networking, Cybersecurity & Ethical Hacking</b><br/>
 🤖 Building intelligent systems with <b>Machine Learning & Computer Vision</b><br/>
 🌐 Crafting secure, scalable <b>web & desktop applications</b><br/>
@@ -24,7 +20,7 @@
   <a href="https://github.com/showravghosh?tab=repositories"><img src="https://img.shields.io/badge/Repositories-Explore-2ea44f?style=for-the-badge&logo=git&logoColor=white"/></a>
 </p>
 
-<br/>
+---
 
 ## 🛠️ Tech Arsenal
 
@@ -40,7 +36,7 @@
   <img src="https://img.shields.io/badge/Networking-black?style=flat-square&logo=cisco&logoColor=cyan" />
 </p>
 
-<br/>
+---
 
 ## 📊 GitHub Analytics
 
@@ -57,12 +53,12 @@
   <img src="https://github-profile-trophy.vercel.app/?username=showravghosh&theme=tokyonight&no-frame=true&row=1&column=7" />
 </p>
 
-<!-- 
+<!--
   🐍 CONTRIBUTION SNAKE — requires ONE-TIME setup before it will render:
-  1. Add .github/workflows/snake.yml (workflow provided earlier in chat)
-  2. Push/run it once from the Actions tab
-  3. It creates an "output" branch — until that branch exists, the line below shows broken
-  Once done, uncomment this block:
+  1. Add .github/workflows/snake.yml (workflow given earlier in this chat)
+  2. Push it, or run it once manually from the Actions tab
+  3. This creates a new "output" branch — until that branch exists, the image below is broken
+  Once the "output" branch exists, delete the <!-- and --> lines around this block:
 
 <p align="center">
   <picture>
@@ -73,7 +69,7 @@
 </p>
 -->
 
-<br/>
+---
 
 ## 🚀 Featured Work
 
@@ -137,11 +133,7 @@ Java Swing desktop application for retail inventory and sales management.
 
 </details>
 
-<br/>
-
-<p align="center">
-  <img width="700" src="https://raw.githubusercontent.com/showravghosh/showravghosh/main/assets/divider.svg" />
-</p>
+---
 
 <p align="center">
   <i>"I enjoy turning ideas into practical software, clean projects, and useful technical work."</i>
