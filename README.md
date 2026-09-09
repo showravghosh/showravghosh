@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Showrav+Ghosh;Cybersecurity+%26+Ethical+Hacking+Enthusiast;Machine+Learning+%2B+Computer+Vision+Builder;Backend+%26+Desktop+App+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Showrav+Ghosh;Cybersecurity+%26+Ethical+Hacking+Enthusiast;Machine+Learning+%2B+Computer+Vision+Builder;Backend+%26+Desktop+App+Developer" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -50,24 +50,8 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=showravghosh&theme=tokyonight&no-frame=true&row=1&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=showravghosh&theme=tokyonight&no-frame=true&column=7&margin-w=10" />
 </p>
-
-<!--
-  🐍 CONTRIBUTION SNAKE — requires ONE-TIME setup before it will render:
-  1. Add .github/workflows/snake.yml (workflow given earlier in this chat)
-  2. Push it, or run it once manually from the Actions tab
-  3. This creates a new "output" branch — until that branch exists, the image below is broken
-  Once the "output" branch exists, delete the <!-- and --> lines around this block:
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/showravghosh/showravghosh/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/showravghosh/showravghosh/output/github-contribution-grid-snake.svg" />
-    <img alt="snake animation" src="https://raw.githubusercontent.com/showravghosh/showravghosh/output/github-contribution-grid-snake-dark.svg" />
-  </picture>
-</p>
--->
 
 ---
 
