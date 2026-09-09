@@ -49,10 +49,6 @@
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=showravghosh&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=showravghosh&theme=tokyonight&no-frame=true&column=7&margin-w=10" />
-</p>
-
 ---
 
 ## 🚀 Featured Work
